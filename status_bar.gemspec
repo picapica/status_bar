@@ -17,7 +17,7 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
 
   spec.add_development_dependency "rake"
-  spec.add_dependency "sugarcube", "1.3.5"
+  spec.add_dependency "sugarcube"
   spec.add_dependency "bubble-wrap"
   spec.add_dependency 'teacup', '2.1.13'
   spec.add_dependency 'hs'
