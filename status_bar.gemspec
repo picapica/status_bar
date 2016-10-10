@@ -18,7 +18,7 @@ Gem::Specification.new do |spec|
 
   spec.add_development_dependency "rake"
   spec.add_dependency "sugarcube", "1.3.5"
-  spec.add_dependency "bubble-wrap", "1.4.0"
+  spec.add_dependency "bubble-wrap"
   spec.add_dependency 'teacup', '2.1.13'
   spec.add_dependency 'hs'
 end
